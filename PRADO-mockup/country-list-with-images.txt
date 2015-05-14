@@ -1,0 +1,165 @@
+<div class="row-fluid" style="font-size: .8em;">
+              <ul class="span4 countries with-image">
+                <li class="odd-row" style="background-image: url(images/64/Austria.png);">
+                  <a href="">
+                    AUT - Austria • REPUBLIK ÖSTERREICH •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Belgium.png); ">
+                  <a href="">
+                    BEL - Belgium • ROYAUME DE BELGIQUE_KONINKRIJK BELGIË_KÖNIGREICH BELGIEN •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Bulgaria.png);">
+                  <a href="">
+                    BGR - Bulgaria • РЕПУБЛИКА БЪЛГАРИЯ_REPUBLIC OF BULGARIA •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Cyprus.png);">
+                  <a href="">
+                    CYP - Cyprus • ΚΥΠΡΙΑΚΉ ΔΗΜΟΚΡΑΤΊΑ_KIBRIS CUMHURİYETİ_REPUBLIC OF CYPRUS •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Czech-Republic.png);">
+                  <a href="">
+                    CZE - Czech Republic • ČESKÁ REPUBLIKA •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Germany.png);">
+                  <a href="">
+                    DEU - Germany • BUNDESREPUBLIK DEUTSCHLAND •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Denmark.png);">
+                  <a href="">
+                    DNK - Denmark • DANMARK •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Spain.png);">
+                  <a href="">
+                    ESP - Spain • ESPAÑA •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Estonia.png);">
+                  <a href="">
+                    EST - Estonia • EESTI •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Finland.png);">
+                  <a href="">
+                    FIN - Finland • SUOMI : FINLAND •
+                  </a><
+                  /li>
+                <li class="odd-row" style="background-image: url(images/64/France.png);">
+                  <a href="">
+                    FRA - France • RÉPUBLIQUE FRANÇAISE •
+                  </a>
+                </li>
+              </ul>
+              
+              <ul class="span4 countries with-image">
+                <li class="odd-row" style="background-image: url(images/64/United-Kingdom.png);">
+                  <a href="">
+                    GBR - United Kingdom • UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Greece.png);">
+                  <a href="">
+                    GRC - Greece • ΕΛΛΗΝΙΚΉ ΔΗΜΟΚΡΑΤΊΑ •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Croatia.png);">
+                  <a href="">
+                    HRV - Croatia • REPUBLIKA HRVATSKA •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Hungary.png);">
+                  <a href="">
+                    HUN - Hungary • MAGYARORSZÁG •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Ireland.png);">
+                  <a href="">
+                    IRL - Ireland • ÉIRE_IRELAND •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Italy.png);">
+                  <a href="">
+                    ITA - Italy • REPUBBLICA ITALIANA •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Lithuania.png);">
+                  <a href="">
+                    LTU - Lithuania • LIETUVOS RESPUBLIKA •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Luxembourg.png);">
+                  <a href="">
+                    LUX - Luxembourg • GRAND-DUCHÉ DE LUXEMBOURG •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Latvia.png);">
+                  <a href="">
+                    LVA - Latvia • LATVIJAS REPUBLIKA •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Malta.png);">
+                  <a href="">
+                    MLT - MALTA •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Netherlands.png);">
+                  <a href="">
+                    NLD - Netherlands • KONINKRIJK DER NEDERLANDEN •
+                  </a>
+                </li>
+              </ul>
+              
+              <ul class="span4 countries with-image">
+                <li class="odd-row" style="background-image: url(images/64/Poland.png);">
+                  <a href="">
+                    POL - Poland • RZECZPOSPOLITA POLSKA •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Portugal.png);">
+                  <a href="">
+                    PRT - PORTUGAL •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Romania.png);">
+                  <a href="">
+                    ROU - Romania • ROMÂNIA •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Slovakia.png);">
+                  <a href="">
+                    SVK - Slovakia • SLOVENSKÁ REPUBLIKA •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Slovenia.png);">
+                  <a href="">
+                    SVN - Slovenia • REPUBLIKA SLOVENIJA •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Sweden.png);">
+                  <a href="">
+                    SWE - Sweden • SVERIGE •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Switzerland.png);">
+                  <a href="">
+                    CHE - Switzerland • CONFÉDÉRATION SUISSE_SWISS CONFEDERATION •
+                  </a>
+                </li>
+                <li style="background-image: url(images/64/Iceland.png);">
+                  <a href="">
+                    ISL - Iceland • ÍSLAND_ICELAND_ISLANDE •
+                  </a>
+                </li>
+                <li class="odd-row" style="background-image: url(images/64/Norway.png);">
+                  <a href="">
+                    NOR - Norway • NORGE_NOREG_NORWAY •
+                  </a>
+                </li>
+              </ul>
+            </div>

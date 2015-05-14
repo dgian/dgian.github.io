@@ -1,0 +1,163 @@
+html.lt-ie8 { overflow-x: hidden;}
+.lt-ie8 img { -ms-interpolation-mode: bicubic;}
+.lt-ie9 header .logo.span2 { height: 113px;}
+.lt-ie8 .language-box .dropdown-toggle i{
+	margin-top:-30px;
+	margin-right:15px;
+	height:32px;}
+.lt-ie8 .language-box .dropdown-menu{
+	z-index:9999;
+	background-color:#FFF;
+	position:absolute;
+	}
+.lt-ie8 .primary-menu.navbar .nav>li.dropdown>a{
+	background:url("../images/ie7-arrow-navigation_hover.png") no-repeat;
+	background-position:50% 35px;
+	}
+.lt-ie8 .primary-menu.navbar .nav>li.dropdown>a:hover, .lt-ie8 .primary-menu.navbar .nav>.open.dropdown>a:hover, {
+	background:url("../images/ie7-arrow-navigation_hover.png") no-repeat;
+	background-position:50% 35px;
+	}	
+.lt-ie8 .hgrouptags h2 .inner-institution, .lt-ie8 .hgrouptags .hgp .inner-institution{
+	border-bottom:1px solid #b7ced1;
+	}	
+.lt-ie8 header{
+	z-index:9999;
+	}
+.lt-ie8 .ico-media{
+	display:inline !important;
+ 		}	
+.lt-ie8 #search-tip{
+	width:320px;
+	}	
+.lt-ie8 .hgrouptags h2 .inner-institution,
+.lt-ie8 .hgrouptags .hgp .inner-institution { border: none !important;
+}
+.lt-ie8 .hgrouptags h2 .inner-institution .short-heading,
+.lt-ie8 .hgrouptags .hgp .short-heading{
+	border:1px solid #b7ced1;
+	}		
+
+.lt-ie8 .social-media.share .ico-media { display:inline !important; padding: 4px;}
+.lt-ie8 .share .ico-media { display:none !important}
+
+.lt-ie8 .share LI .share-txt { padding-left: 15px;}
+
+.lt-ie8 .ico-media .hidden { display: block !important; visibility: visible; font-size: 12px; font-family: 'Open Sans', Arial, Tahoma, sans-serif; padding: 0; margin: 0;}
+.lt-ie8 .social-media.share LI.flickr A .ico-media {
+    display: inline-block;
+    zoom: 1;
+    display: inline;
+    vertical-align: middle;
+    padding: 4px;
+    vertical-align: middle;
+    text-align: center;
+    min-width: auto;
+    min-height: auto;
+    background: none;
+    border: none;
+	margin-right:0;
+}
+	.lt-ie8 .social-media.share LI.flickr A:hover .ico-media {
+    display: inline-block;
+    zoom: 1;
+    display: inline;
+    vertical-align: middle;
+    padding: 4px;
+    vertical-align: middle;
+    text-align: center;
+    min-width: auto;
+    min-height: auto;
+    background: none;
+    border: none;
+	margin-right:0;
+	
+}
+
+/* Gallery class row-fluid added to rowline */
+.lt-ie8 .content-gallery .row-fluid.rowline > div:first-child {
+    margin-left: 0;
+}
+
+.lt-ie8 .content-gallery .rowline .span2 {
+    width: 15.65%;
+    margin: 0 0.75% 0 0;
+    padding: 0 0 20px;
+}
+
+
+
+.lt-ie8 .share LI .ico-media{ margin-right: 0;}
+
+.lt-ie8 .yamm .yamm-content .span8 .span4 {
+width: 23.623932%;
+}
+	
+.lt-ie8 .span6.lists { width: 46.88%;}
+.lt-ie8 footer .footer-top { padding-bottom: 30px;}
+
+.lt-ie8 .yamm .yamm-content .span8 {
+	float: right;
+	margin-left:0 ;
+	width: 65%;
+}
+
+.lt-ie8 .row-fluid.noheader-nofooter-page .hgrouptags {
+    min-height: 0;
+}
+
+.lt-ie8 .icon-file-text-alt { width: 49px; height: 46px; background: url(../images/ico_related-docs-pubs.png) no-repeat left top;}
+.lt-ie8 .icon-link { width: 49px; height: 46px; background: url(../images/ico_related-seealso.png) no-repeat left top;}
+
+.lt-ie8 .dropdown-menu {
+    top: 0px;
+}
+.lt-ie8 .related-content .btn-group.lang-accordion .dropdown-menu {
+    float: none;
+	line-height: 2em;	
+}
+
+.lt-ie8 .related-content .btn-group.lang-accordion  {
+    display: block;
+	line-height: 0;
+	padding-left: 5px;
+	top: -3px;
+	position: relative;
+}
+
+.lt-ie8 .content-top .left-menu li a {
+    top: -7px;
+    position: relative;
+    left: 5px;
+}
+
+.lt-ie8 .noheader-nofooter-page .content-top .left-menu li a {
+	top: -4px;
+	position: relative;
+}
+
+.lt-ie8 .related-content .link-list li > a  {
+    padding-left: 5px;
+	top: -3px;
+	position: relative;
+}
+
+.lt-ie8 .related-content .btn-group.lang-accordion .dropdown-toggle.btn {
+    position: relative;
+    top: 3px;
+	font-size: 100%;
+}
+
+.lt-ie8 li.ordinary-leg-step a h2, .lt-ie8 li.ordinary-leg-step a .hgp2 {
+color: #346195;
+font-weight: bold;
+margin: 0 2%;
+vertical-align: middle;
+line-height: 1.2em;
+padding: 0;
+width: 96%;
+margin-top: 38px;
+}
+
+
+
